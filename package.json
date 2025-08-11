@@ -1,7 +1,7 @@
 {
   "title": "html2canvas",
-  "name": "html2canvas",
-  "description": "Screenshots with JavaScript",
+  "name": "@dashi0/html2canvas",
+  "description": "Screenshots with JavaScript (with CSS Color Module Level 4 support)",
   "main": "dist/html2canvas.js",
   "module": "dist/html2canvas.esm.js",
   "typings": "dist/types/index.d.ts",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:niklasvh/html2canvas.git"
+    "url": "git@github.com:dashi0/html2canvas.git"
   },
   "bugs": {
-    "url": "https://github.com/niklasvh/html2canvas/issues"
+    "url": "https://github.com/dashi0/html2canvas/issues"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
